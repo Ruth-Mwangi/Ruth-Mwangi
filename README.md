@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a Data Engineer with experience in designing and optimizing scalable data pipelines, significantly reducing processing times and increasing analytics efficiency. I excel at transforming complex data into actionable insights that drive decision-making. I have a strong background in software engineering, with expertise in Python, Java, SQL, and cloud technologies (AWS, GCP).
+
+
